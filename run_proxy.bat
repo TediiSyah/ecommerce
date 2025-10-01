@@ -1,0 +1,3 @@
+@echo off
+echo Starting development proxy server...
+dart run .\web\dev_proxy.dart
